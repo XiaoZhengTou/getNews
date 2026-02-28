@@ -1,0 +1,13 @@
+# 环境变量（含敏感凭据，不提交）
+.env
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Claude Code 本地配置
+.claude/
+
+# 技能文件（本地专用）
+skills/
